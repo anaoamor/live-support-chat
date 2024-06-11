@@ -1,0 +1,4 @@
+mysqldump -u YourUser -p YourDatabaseName > wantedsqlfile.sql
+
+To export database
+https://venngage.typeform.com/to/y0XCrlpU
